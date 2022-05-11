@@ -1,0 +1,153 @@
+{
+  "company": {
+    "name": "GreenWaveBoardZ",
+    "logo": "/assets/images/logo.png"
+  },
+  "navigation": [
+    {
+      "name": "Product",
+      "href": "product"
+    },
+    {
+      "name": "Features",
+      "href": "features"
+    },
+
+    {
+      "name": "Pricing",
+      "href": "pricing"
+    },
+    {
+      "name": "About",
+      "href": "about"
+    }
+  ],
+  "callToAction": {
+    "text": "Shop",
+    "href": "#"
+  },
+  "mainHero": {
+    "title": "Be Green",
+    "subtitle": "Be Sexy.",
+    "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet,",
+    "img": "/assets/images/mainHero.jpg",
+    "primaryAction": {
+      "text": "Get started",
+      "href": "#"
+    },
+    "secondaryAction": {
+      "text": "Email us",
+      "href": "mailto:info@GreenWaveBoardZ.de?subject=Question!"
+    }
+  },
+  "product": {
+    "title": "Dive into our World!",
+    "items": [
+      {
+        "title": "Get your eco-friendly Board!",
+        "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet,",
+        "img": "/assets/images/footprint.png"
+      },
+      {
+        "title": "Make it your own!",
+        "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet,",
+        "img": "/assets/images/yourOwn.jpg"
+      }
+    ]
+  },
+  "features": {
+    "title": "Recycled & Renewed",
+    "subtitle": "Using the best we can find!",
+    "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet,",
+    "items": [
+      {
+        "name": "Locally planted trees & driftwood",
+        "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore.",
+        "icon": "/assets/images/tree.png"
+      },
+      {
+        "name": "Recycling plastic",
+        "description": "et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo.",
+        "icon": "/assets/images/plastic.png"
+      },
+      {
+        "name": "Giving back to the Environment",
+        "description": "dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor.",
+        "icon": "/assets/images/recycling.png"
+      },
+      {
+        "name": "Developing new ways to clean the oceans",
+        "description": "sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt.",
+        "icon": "/assets/images/develop.png"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Pricing",
+    "items": [
+      {
+        "name": "Beginner",
+        "price": "$600",
+        "priceDetails": "for new customers",
+        "features": [
+          "get your first board",
+          "get recommendations based on your demands",
+          "discount for surf school",
+          "online support"
+        ]
+      },
+      {
+        "name": "Recommended",
+        "price": "$650",
+        "priceDetails": "per customer",
+
+        "features": [
+          "select from different designs",
+          "personal advice",
+          "2 week surf school included",
+          "phone / mail support"
+        ]
+      },
+      {
+        "name": "Enthusiast",
+        "price": "$750",
+        "priceDetails": "per customer",
+        "features": [
+          "freely design your own board",
+          "in depth communication about the material",
+          "get a personal training session with XY",
+          "personal support contact"
+        ]
+      }
+    ]
+  },
+  "about": {
+    "sections": [
+      {
+        "name": "Imprint",
+        "href": "#",
+        "content": "-"
+      },
+      {
+        "name": "Terms & Conditions",
+        "href": "#",
+        "content": "-"
+      },
+      {
+        "name": "Privacy Policy",
+        "href": "#",
+        "content": "-"
+      },
+      {
+        "name": "Cookie Policy",
+        "href": "#",
+        "content": "-"
+      }
+    ],
+    "socialMedia": {
+      "youtube": "https://www.youtube.com",
+      "twitter": "https://twitter.com/",
+      "instagram": "https://www.instagram.com/"
+    }
+  }
+}
