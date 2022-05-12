@@ -10,6 +10,7 @@ import MainHero from '../components/MainHero';
 import MainHeroImage from '../components/MainHeroImage';
 import Pricing from '../components/Pricing';
 import Product from '../components/Product';
+import Quote from '../components/Quote';
 
 const App = () => {
   return (
@@ -27,16 +28,16 @@ const App = () => {
       </div>
       <Canvas />
       <LazyShow>
-        <>
-          <Product />
-          <Canvas />
-        </>
+        <Product />
       </LazyShow>
       <LazyShow>
-        <>
-          <Features />
-          <Canvas />
-        </>
+        <Quote index={0} />
+      </LazyShow>
+      <LazyShow>
+        <Features />
+      </LazyShow>
+      <LazyShow>
+        <Quote index={1} />
       </LazyShow>
       <LazyShow>
         <Pricing />

@@ -1,6 +1,7 @@
 import React from 'react';
 
 import config from '../config/index.json';
+import Divider from './Divider';
 
 const Features = () => {
   const { features } = config;
@@ -21,8 +22,8 @@ const Features = () => {
             {description}
           </p>
         </div>
-
-        <div className="mt-10">
+        <div className="mt-12">
+          <Divider />
           <dl className="space-y-10 md:space-y-0 md:grid md:grid-cols-2 md:gap-x-8 md:gap-y-10">
             {featuresList.map((feature) => (
               <div key={feature.name} className="relative">
