@@ -30,6 +30,7 @@
     "title": "Be Green",
     "subtitle": "Be Sexy.",
     "description": "Do your part and ride with GreenWaveBoardZ - an eco-friendly surfboard shop that is committed to saving the environment. Surfing is one of the most environmentally sustainable sports there is. With boards from us, you can enjoy the waves without doing damage to our beloved nature.",
+    "subdescription": "Join us on this journey towards a cleaner world!",
     "img": "/assets/images/mainHero.jpg",
     "primaryAction": {
       "text": "Get started",
@@ -45,12 +46,12 @@
     "items": [
       {
         "title": "Get your eco-friendly Board!",
-        "description": "We use recycled materials for our boards and environmentally-safe methods for production. That means no animals were harmed in the making of our boards! It's time to get rid of those environmentally harmful boards. GreenWaveBoardZ is a leading surfboard company that provides high-quality surfboards made from recycled materials. We take pride in our surfboard manufacturing process and take care to make sure that every customer is fully satisfied with their purchase. Our customers are happy because they know they're getting a high-quality board that's good for the environment.",
+        "description": "We use recycled materials for our boards and environmentally-safe methods for production. That means no animals were harmed in the making of our boards! It's time to get rid of those environmentally hurtful boards. GreenWaveBoardZ is a leading surfboard company that provides high-quality surfboards made from recycled materials. We take pride in our surfboard manufacturing process and take care to make sure that every customer is fully satisfied with their purchase. Our customers are happy because they know they're getting a high-quality board that's good for the environment.",
         "img": "/assets/images/footprint.png"
       },
       {
         "title": "Make it your own!",
-        "description": "Our ecological boards are not only good for the environment, they're also stylish and sleek. Design your own board as easily as you design your own surfboard with our customizer tool! Each board is made by hand from sustainably harvested wood.",
+        "description": "We specialize in designing custom surfboards with our team of world-class surfboard designers and state-of-the-art technologies. Our craftsmen use the highest quality materials to give you a surfboard that not only stands out, but lasts a lifetime. Our ecological boards are not only good for the environment, they're also stylish and sleek. Design your own board as easily as you design your own surfboard with our customizer tool! Each board is made by hand from sustainably harvested wood.",
         "img": "/assets/images/yourOwn.jpg"
       }
     ]
@@ -58,16 +59,16 @@
   "features": {
     "title": "Recycled & Renewed",
     "subtitle": "Using the best we can find!",
-    "description": "Our experienced surfers know how important it is that a surfboard is light, stiff, and fast so they team up with our expert engineers to create products that are shaped for maximum performance. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet,",
+    "description": "Our experienced surfers know how important it is that a surfboard is light, stiff, and fast so they team up with our expert engineers to create products that are shaped for maximum performance. With us, you can be sure your board is made close to home, by skilled craftsmen. We not only sell great eco-friendly surfboards, but we also want to make a difference. By buying from our store, you're supporting the efforts to save the ocean and help this world in a way that not many other stores can provide!",
     "items": [
       {
         "name": "Locally & sustainably harvested trees",
-        "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "description": "We're not just making boards — we're also taking care of our planet. We use sustainable materials like driftwood, and locally harvested trees to make boards that have a positive environmental impact. Our boards are produced in an eco-friendly manner, using environmentally friendly materials. With every purchase, you're helping to make the world a better place!",
         "icon": "/assets/images/tree.png"
       },
       {
         "name": "Recycled plastic",
-        "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "description": "We donate 10% of our profits to recycling initiatives to help keep our beaches clean. We also use recycled plastic in all of our products, which will help reduce our carbon footprint and help protect the environment. We are part of a new wave of businesses that are changing the way we do business. We believe in sustainability, making sure that what you buy doesn't end up as more waste in landfills or in the water.",
         "icon": "/assets/images/plastic.png"
       },
       {
@@ -107,7 +108,7 @@
     "items": [
       {
         "name": "Beginner",
-        "price": "$600",
+        "price": "$550",
         "priceDetails": "for new customers",
         "features": [
           "get your first board",
@@ -118,7 +119,7 @@
       },
       {
         "name": "Recommended",
-        "price": "$650",
+        "price": "$700",
         "priceDetails": "per customer",
 
         "features": [
@@ -130,7 +131,7 @@
       },
       {
         "name": "Enthusiast",
-        "price": "$750",
+        "price": "$900",
         "priceDetails": "per customer",
         "features": [
           "freely design your own board",
